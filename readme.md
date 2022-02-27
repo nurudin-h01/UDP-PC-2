@@ -8,7 +8,7 @@ node udp-pc-1.js
 
 ## 3. Run PC 3
 
-node udp-pc-1.js
+node udp-pc-3.js
 
 mosquitto -p 5000
 

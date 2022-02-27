@@ -15,3 +15,5 @@ mosquitto -p 5000
 ## 4. Run PC 2
 
 node udp-pc-2.js
+
+open index.html in http://localhost:3000/
